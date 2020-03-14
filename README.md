@@ -7,7 +7,8 @@ Includes .pdfs and .docs of completed reports for each assignment, detailing the
 
 ### Contents
 Assignment 1: Computational Processing and Analysis of 3D Ultrasound Data
-- [Details](HW1/482hw1.pdf)
+- [Project Outline](HW1/482hw1.pdf)
+- [Project Report](HW1/HW1WriteUp.pdf)
 
 [Assignment 2: Time-Frequency Analysis of 1D Audio Signals](HW2/482hw2.pdf)
 
