@@ -6,7 +6,7 @@ Contains MATLAB and Python code for the various assignments completed throughout
 Includes .pdfs and .docs of completed reports for each assignment, detailing the mathematical concepts used and implemented, results found, and insights gained.
 
 ### Contents
-[Assignment 1: Computational Processing and Analysis of 3D Ultrasound Data](HW1/482hw1.pdf)
+[Assignment 1: Computational Processing and Analysis of 3D Ultrasound Data](HW1/)
 
 [Assignment 2: Time-Frequency Analysis of 1D Audio Signals](HW2/482hw2.pdf)
 
