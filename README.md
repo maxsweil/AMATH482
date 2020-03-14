@@ -1,9 +1,9 @@
 # AMATH_482
-Repository for Computational Methods For Data Analysis course at the University of Washington.
 
-Contains MATLAB and Python code for the various assignments completed throughout this course.
-
-Includes .pdfs and .docs of completed reports for each assignment, detailing individual projects
+### About
+Repository for Computational Methods For Data Analysis course at the University of Washington.<br/>
+Contains MATLAB and Python code for the various assignments completed throughout this course.<br/>
+Includes .pdfs and .docs of completed reports for each assignment, detailing the mathematical concepts used and implemented, results found, and insights gained.
 
 ### Contents
 [Assignment 1: Computational Processing and Analysis of 3D Ultrasound Data](HW1/482hw1.pdf)
