@@ -1,6 +1,6 @@
 # AMATH_482
 Repository for Computational Methods For Data Analysis course at the University of Washington
 
-Contains MATLAB code for the various assignments done in this course
+Contains MATLAB and Python code for the various assignments completed throughout this course
 
-Includes .pdfs of completed reports for each assignment, detailing individual projects
+Includes .pdfs and .docs of completed reports for each assignment, detailing individual projects
