@@ -25,3 +25,6 @@ Assignment 4: Musical Classification Using Linear Discriminant Analysis
 Assignment 5: Neural Network Classification of Fashion MNIST Data
 - [Assignment 5 Outline](HW5/482hw5_Python.pdf)
 - [Assignment 5 Report](HW5/HW5WriteUp.pdf)
+
+### Contributors
+Maxwell Weil, B.S. Bioengineering, UW Class of 2020
