@@ -10,7 +10,7 @@ Assignment 1: Computational Processing and Analysis of 3D Ultrasound Data
 - [Assignment 1 Outline](HW1/482hw1.pdf)
 - [Assignment 1 Report](HW1/HW1WriteUp.pdf)
 
-Assignment 2: Time-Frequency Analysis of 1D Audio Signals]
+Assignment 2: Time-Frequency Analysis of 1D Audio Signals
 - [Assignment 2 Outline](HW2/482hw2.pdf)
 - [Assignment 2 Report](HW2/HW2WriteUp.pdf)
 
